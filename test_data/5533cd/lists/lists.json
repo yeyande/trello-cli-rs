@@ -1,0 +1,47 @@
+[
+    {
+        "id": "c51bd",
+        "name": "Backlog",
+        "closed": false,
+        "pos": 65535,
+        "softLimit": null,
+        "idBoard": "5533cd",
+        "subscribed": false
+    },
+    {
+        "id": "ac3bc",
+        "name": "Selected for Development",
+        "closed": false,
+        "pos": 98303,
+        "softLimit": null,
+        "idBoard": "5533cd",
+        "subscribed": false
+    },
+    {
+        "id": "fc2087",
+        "name": "In Progress",
+        "closed": false,
+        "pos": 131071,
+        "softLimit": null,
+        "idBoard": "5533cd",
+        "subscribed": false
+    },
+    {
+        "id": "27bb1",
+        "name": "Ready for Promote",
+        "closed": false,
+        "pos": 196607,
+        "softLimit": null,
+        "idBoard": "5533cd",
+        "subscribed": false
+    },
+    {
+        "id": "dbb2c",
+        "name": "Done",
+        "closed": false,
+        "pos": 262143,
+        "softLimit": null,
+        "idBoard": "5533cd",
+        "subscribed": false
+    }
+]

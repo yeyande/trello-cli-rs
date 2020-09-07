@@ -1,0 +1,5 @@
+{
+    "base_url": "https://api.trello.com/1",
+    "key": "123456",
+    "token": "abc123"
+}

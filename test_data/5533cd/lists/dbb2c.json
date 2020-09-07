@@ -1,0 +1,62 @@
+[
+    {
+        "id": "b4079e",
+        "checkItemStates": null,
+        "closed": false,
+        "dateLastActivity": "2015-04-23T21:16:40.121Z",
+        "desc": "",
+        "descData": null,
+        "dueReminder": null,
+        "idBoard": "5533cd",
+        "idList": "dbb2c",
+        "idMembersVoted": [],
+        "idShort": 21,
+        "idAttachmentCover": null,
+        "idLabels": [],
+        "manualCoverAttachment": false,
+        "name": "Create help command",
+        "pos": 255.99609375,
+        "shortLink": "aUWZ",
+        "isTemplate": false,
+        "badges": {
+            "attachmentsByType": {
+                "trello": {
+                    "board": 0,
+                    "card": 0
+                }
+            },
+            "location": false,
+            "votes": 0,
+            "viewingMemberVoted": false,
+            "subscribed": false,
+            "fogbugz": "",
+            "checkItems": 0,
+            "checkItemsChecked": 0,
+            "checkItemsEarliestDue": null,
+            "comments": 1,
+            "attachments": 0,
+            "description": false,
+            "due": null,
+            "dueComplete": false,
+            "start": null
+        },
+        "dueComplete": false,
+        "due": null,
+        "idChecklists": [],
+        "idMembers": [
+            "5536bcc9989"
+        ],
+        "labels": [],
+        "shortUrl": "https://trello.com/c/aUWZ",
+        "start": null,
+        "subscribed": false,
+        "url": "https://trello.com/c/aUWZ/21-create-help-command",
+        "cover": {
+            "idAttachment": null,
+            "color": null,
+            "idUploadedBackground": null,
+            "size": "normal",
+            "brightness": "light"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": "da3e9",
+        "name": "Backlog",
+        "closed": false,
+        "pos": 65535,
+        "softLimit": null,
+        "idBoard": "acef9",
+        "subscribed": false
+    },
+    {
+        "id": "47259",
+        "name": "In Progress",
+        "closed": false,
+        "pos": 131071,
+        "softLimit": null,
+        "idBoard": "acef9",
+        "subscribed": false
+    },
+    {
+        "id": "1b340",
+        "name": "Done",
+        "closed": false,
+        "pos": 196607,
+        "softLimit": null,
+        "idBoard": "acef9",
+        "subscribed": false
+    }
+]
